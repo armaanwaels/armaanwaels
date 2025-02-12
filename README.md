@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @armaanwaels  
+- 👀 I’m interested in **AI, machine learning, cloud computing, and software development**  
+- 🌱 I’m currently learning **LLMs, predictive analytics, and advanced cloud technologies (AWS, Azure)**  
+- 💞️ I’m looking to collaborate on **AI-driven solutions, full-stack web apps, and innovative tech projects**  
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/armaan-waels-192452268/)**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: **I was part of a team that built and launched a functional rocket with Space Concordia 🚀**  
