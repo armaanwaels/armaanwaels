@@ -2,9 +2,8 @@
 
 ## A little about me  
 - 🎓 I'm a **Software Engineering student at Concordia University**  
-- 🤖 I'm extremely passionate about **AI, Machine Learning, and Cloud Computing**  
-- 🚀 Member of **Space Concordia**, contributing to rocket component design  
-- 🌍 Interned at **Safepay UX/UI**, optimizing digital payment systems  
+- 🤖 I'm extremely passionate about **AI, Machine Learning, and Cloud Computing**   
+- 🌍 Interned at **Safepay UX/UI**, optimizing digital payment systems, and other companies 
 - 💡 Currently exploring **LLMs, predictive analytics, and AI-driven optimization**  
 
 ---
