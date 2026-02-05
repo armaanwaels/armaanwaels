@@ -1,10 +1,10 @@
 # Welcome, my name is Armaan Waels  
 
 ## A little about me  
-- 🎓 I'm a **Software Engineering student at Concordia University**  
-- 🤖 I'm extremely passionate about **AI, Machine Learning, and Cloud Computing**   
-- 🌍 Interned at various software/tech companies and look to optimize many fields with AI and ML  
-- 💡 Currently exploring **LLMs, predictive analytics, and AI-driven optimization**  
+- I'm a **Software Engineering student at Concordia University**  
+- I'm extremely passionate about **AI, Machine Learning, and Cloud Computing**   
+- Interned at various software/tech companies and look to optimize many fields with AI and ML  
+- Currently exploring **LLMs, predictive analytics, and AI-driven optimization**  
 
 ---
 
