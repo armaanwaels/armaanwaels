@@ -1,59 +1,23 @@
-# Welcome, my name is Armaan Waels  
+# Armaan Waels
 
-## A little about me  
-- I'm a **Software Engineering student at Concordia University**  
-- I'm extremely passionate about **AI, Machine Learning, and Cloud Computing**   
-- Interned at various software/tech companies and look to optimize many fields with AI and ML  
-- Currently exploring **LLMs, predictive analytics, and AI-driven optimization**  
+Forward Deployed Engineer at Accenture (Anthropic Business Group), building
+production AI systems: agents, RAG, evals, and the infrastructure that serves
+them. Georgia Tech OMSCS (ML) part-time. Previously co-founded Cogentic and
+shipped applied AI at a Fortune 100 manufacturer, a YC fintech, and an ML startup.
 
----
+I care about LLM serving and orchestration, agent evaluation, and making messy
+enterprise deployments actually work.
 
-## Skills, APIs, Technologies  
-### 🖥️ Programming Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-</p>
+**Selected work**
+- multi-agent-research-orchestrator: five LangGraph agents with MCP tools,
+  human-in-the-loop review, PostgreSQL and Qdrant, with an eval harness.
+- llm-finetune-serve: Mistral-7B LoRA fine-tune served on vLLM, with a
+  reproducible throughput and TTFT benchmark.
+- nomao-deduplication: seven-model comparison on a UCI record-linkage task.
+- go-invoice-api: a small Go REST service over SQLite (learning project).
 
-### 🔧 Tools & Technologies  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+**Stack**
+Python, Go, TypeScript. LangGraph, MCP, RAG, evals, vLLM, Kubernetes,
+Terraform. AWS, Azure, GCP, Kafka.
 
----
-
-## More about me  
-- 📫 **How to reach me**:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armaan-waels-192452268/)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armaanwaels2003@gmail.com)  
-
-- ⚡ **Fun Fact**: I helped design and assemble a **functional rocket** with Space Concordia 🚀  
+[LinkedIn](https://www.linkedin.com/in/armaan-waels/) · armaanwaels2003@gmail.com
