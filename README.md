@@ -5,8 +5,8 @@ production AI systems: agents, RAG, evals, and the infrastructure that serves
 them. Georgia Tech OMSCS (ML) part-time. Previously co-founded Cogentic and
 shipped applied AI at a Fortune 100 manufacturer, a YC fintech, and an ML startup.
 
-I care about LLM serving and orchestration, agent evaluation, and making messy
-enterprise deployments actually work.
+I work on LLM serving and orchestration, agent evaluation, and the messy parts
+of enterprise deployment.
 
 **Selected work**
 - multi-agent-research-orchestrator: five LangGraph agents with MCP tools,
