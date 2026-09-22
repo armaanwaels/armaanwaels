@@ -14,7 +14,6 @@ of enterprise deployment.
 - llm-finetune-serve: Mistral-7B LoRA fine-tune served on vLLM, with a
   reproducible throughput and TTFT benchmark.
 - nomao-deduplication: seven-model comparison on a UCI record-linkage task.
-- go-invoice-api: a small Go REST service over SQLite (learning project).
 
 **Stack**
 Python, Go, TypeScript. LangGraph, MCP, RAG, evals, vLLM, Kubernetes,
