@@ -9,11 +9,12 @@ I work on LLM serving and orchestration, agent evaluation, and the messy parts
 of enterprise deployment.
 
 **Selected work**
-- multi-agent-research-orchestrator: five LangGraph agents with MCP tools,
-  human-in-the-loop review, PostgreSQL and Qdrant, with an eval harness.
-- llm-finetune-serve: Mistral-7B LoRA fine-tune served on vLLM, with a
-  reproducible throughput and TTFT benchmark.
-- nomao-deduplication: seven-model comparison on a UCI record-linkage task.
+- multi-agent-research-orchestrator: five LangGraph agents with MCP tools over five sources, human review, an eval harness.
+- inference-bench: vLLM against SGLang on one GPU, with a Go load generator that measures TTFT at the client.
+- airgap-agent-runtime: a LangGraph agent on a local model with no network, an egress guard and a hash-chained audit log.
+- llm-finetune-serve: a Mistral-7B LoRA fine-tune served on vLLM, with a throughput and TTFT benchmark.
+- ml-end-to-end-pipeline: a DVC pipeline and FastAPI service for credit card fraud.
+- nomao-deduplication: seven models compared on a UCI record-linkage task.
 
 **Stack**
 Python, Go, TypeScript. LangGraph, MCP, RAG, evals, vLLM, Kubernetes,
